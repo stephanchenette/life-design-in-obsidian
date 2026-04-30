@@ -1,4 +1,4 @@
-# V3 Lifebook Report Generation Prompt
+# Lifebook Report Generation Prompt
 
 Use this prompt after a Life Design interview has been recorded and transcribed.
 
