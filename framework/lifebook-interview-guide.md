@@ -122,3 +122,17 @@ At the end of the interview, ask:
 - Which problem is actually upstream of the others?
 - What are the three most important next actions?
 - What should be revisited next month?
+
+## After The Interview
+
+The interview alone is not the finished artifact.
+
+After the conversation:
+
+1. export or clean the transcript
+2. separate interviewer language from interviewee language where needed
+3. run the transcript through `prompts/lifebook-report-generation-prompt.md`
+4. review the generated report for missing or weak categories
+5. turn the strongest strategies into monthly next actions
+
+This is the step that converts a useful conversation into a durable Life Design document.
